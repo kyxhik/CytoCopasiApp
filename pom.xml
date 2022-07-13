@@ -47,6 +47,7 @@
 		<module>jobs-api</module>
 		<module>util-api</module>
 		<module>api-bundle</module>
+		<module>CytoCopasiApp</module>
 	</modules>
 
 	<dependencyManagement>
